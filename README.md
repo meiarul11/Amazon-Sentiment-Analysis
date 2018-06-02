@@ -1,5 +1,5 @@
 # amazon
-sentient analysis on product
+sentiment analysis on product
 
 •	Scraped the reviews data from Amazon website using Rvest in R and cleaned the data-set
 
